@@ -93,7 +93,7 @@ def DST(input_im, content_im, style_im, extractor, content_path, style_path,
         begin_ind = (scales-1-scale)
         content_weight_scaled = content_weight*down_fac
 
-        print('\nOptimizing at scale {}, image size ({}, {})'.format(scale+1, content_im.size(2)//down_fac, content_im.size(2)//down_fac))
+        print('\nOptimizing at scale {}, image size ({}, {})'.format(scale+1, content_im.size(2)//down_fac, content_im.size(3)//down_fac))
 
         if down_fac > 1.:
             content_im_scaled = F.interpolate(content_im, (content_im.size(2)//down_fac, content_im.size(3)//down_fac), mode='bilinear')
