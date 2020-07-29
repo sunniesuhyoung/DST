@@ -1,6 +1,6 @@
 # Deformable Style Transfer (DST)
 
-### [Project Page](https://sunniesuhyoung.github.io/DST-page/) | [Paper](https://arxiv.org/abs/2003.11038) | [Demo](https://bit.ly/DST-demo) | [1 Minute Video](https://youtu.be/7qUzfcn6TPk) 
+### [Project Page](https://sunniesuhyoung.github.io/DST-page/) | [Paper](https://arxiv.org/abs/2003.11038) | [Demo](https://bit.ly/DST-demo) | [1 Minute Video](https://youtu.be/7qUzfcn6TPk) | [10 Minute Talk](https://youtu.be/mVU5tSxS4is) 
 
 This repo provides the source code and demo of our paper: **Deformable Style Transfer (ECCV 2020)**.
 
