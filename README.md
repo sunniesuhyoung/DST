@@ -11,7 +11,7 @@ It also contains a pytorch implementation of a differentiable warping module tha
   author = {Sunnie S. Y. Kim and Nicholas Kolkin and Jason Salavon and Gregory Shakhnarovich},
   title = {Deformable Style Transfer},
   year = {2020},  
-  booktitle = {European Conference on Computer Vision (ECCV)},  
+  booktitle = {European Conference on Computer Vision (ECCV)}  
 }
 ```
 
